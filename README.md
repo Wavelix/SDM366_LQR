@@ -1,4 +1,7 @@
 # SDM366_LQR
+![Static Badge](https://img.shields.io/badge/2025-Spring-green)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-%2300769D.svg?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjMDA3NjlEIiBkPSJNMTI1IDBDNTYuMSAwIDAgNTYuMSAwIDEyNXM1Ni4xIDEyNSAxMjUgMTI1IDEyNS01Ni4xIDEyNS0xMjVTMjQzLjkgMCAxMjUgMHptMCAyMjVjLTU1LjIgMC0xMDAtNDQuOC0xMDAtMTAwUzY5LjggMjUgMTI1IDI1czEwMCA0NC44IDEwMCAxMDAtNDQuOCAxMDAtMTAwIDEwMHoiLz48cGF0aCBmaWxsPSIjMDBDQ0ZGIiBkPSJNMTI1IDUwYy00MS40IDAtNzUgMzMuNi03NSA3NXMzMy42IDc1IDc1IDc1IDc1LTMzLjNiIDc1LTc1LTMzLjYtNzUtNzUtNzV6Ii8+PC9zdmc+&logoColor=white)
+
 Project for SDM366 Optimal Control and Estimation, SUSTech
 
 ![](./res/screenshot.png)
